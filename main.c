@@ -1,3 +1,8 @@
+//AUTHOR: lazarus miumu gualdi
+//COMPILER: C89
+//LICENCE:  MIT
+//DATE:     JULY 2022
+//
 #include <stdio.h>
 #include <stdlib.h>
 
